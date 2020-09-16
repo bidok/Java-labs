@@ -1,6 +1,6 @@
 public class lab_2 {
     public static void main(String[] args) {
-        String str = "@@@ ясав %:?:* ваХДЛПВАся $%!@";
+        String str = "Умру. Суму сум — у сурму";
         System.out.println("Your string: "+ str);
         str = str.toLowerCase();
         String cleanStr = str.replaceAll("[^а-я]" , "");
