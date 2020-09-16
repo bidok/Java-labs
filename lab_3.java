@@ -1,7 +1,7 @@
 
 import static java.lang.Math.*;
 
-public class lab_1_3 {
+public class lab_3 {
     public static void main(String[] args) {
         double totalArea =0;
         double start = 0;
