@@ -4,7 +4,7 @@ public class lab_2 {
         System.out.println("Your string: "+ str);
         str = str.toLowerCase();
         String cleanStr = str.replaceAll("[^а-я]" , "");
-        System.out.println("clean string: "+ cleanStr);
+        System.out.println("clean string  : "+ cleanStr);
         StringBuffer temp = new StringBuffer(cleanStr);
         String reverse = new String(temp.reverse());
         System.out.println("Reverse string: " + reverse);
