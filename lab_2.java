@@ -10,10 +10,10 @@ public class lab_2 {
         System.out.println("Reverse string: " + reverse);
         System.out.println("==================================");
         if (cleanStr.equals(reverse)){
-            System.out.println("Your string is polindrom");
+            System.out.println("Your string is palindrome");
         }
         else{
-            System.out.println("Your string isn't polindrom");
+            System.out.println("Your string isn't palindrome");
         }
 
     }
